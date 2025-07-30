@@ -6,7 +6,7 @@ A responsive e-commerce product display and cart management app built with **Rea
 
 ## 🚀 Live Demo
 
-[Click here to view live](#) <!-- Replace # with your actual deployment link (e.g., Vercel/Netlify) -->
+Netlify : https://add-to-cart-applications.netlify.app
 
 ---
 
@@ -62,9 +62,9 @@ A responsive e-commerce product display and cart management app built with **Rea
 
 **Product List**
 
-![alt text](./image.pngimage.pngpng)
+![alt text](././src/assets/image.png)
 
-
+**Cart Page**
 ![Cart Page](././src/assets/Screenshot%202025-07-30%20120951.png)
 
 
